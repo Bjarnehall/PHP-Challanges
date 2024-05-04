@@ -1,4 +1,6 @@
 <?php
+//Write a terminal program for counting vowels in a provided string.
+
 
 // accept a string input from the command line
 

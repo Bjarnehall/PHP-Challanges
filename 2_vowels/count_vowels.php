@@ -1,4 +1,5 @@
 <?php
+//Write a terminal program for counting vowels in a provided string.
 
 // accept a string input from the command line
 if ($argc > 1) {
@@ -17,7 +18,6 @@ if ($argc > 1) {
             $vowel_count++;
         }   
     }
-
 
     // Print the total count of vowels
     echo "Number of vowels: " . $vowel_count . "\n";
