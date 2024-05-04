@@ -9,7 +9,7 @@ if ($argc > 1) {
 // Convert the string to lowercase to simplify vowel checking
     $input_string = strtolower($input_string);
 // List of vowels to check against
-    $vowels = ['a', 'e', 'i', 'o', 'u', 'ä', 'å', 'ö'];
+    $vowels = ['a', 'e', 'i', 'o', 'u', 'ä', 'å', 'ö', 'y'];
 
 // Iterate through each character in the string
     for ($i = 0; $i < strlen($input_string); $i++) {

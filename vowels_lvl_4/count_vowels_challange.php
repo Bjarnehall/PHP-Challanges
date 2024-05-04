@@ -1,21 +1,14 @@
 <?php
 //Write a terminal program for counting vowels in a provided string.
 
-
 // accept a string input from the command line
-
-
 // Convert the string to lowercase to simplify vowel checking
-
 // List of vowels to check against
-    $vowels = ['a', 'e', 'i', 'o', 'u', 'ä', 'å', 'ö'];
-
+//  $vowels = ['a', 'e', 'i', 'o', 'u', 'ä', 'å', 'ö', 'y'];
 // Iterate through each character in the string
-
      // Check if the current character is a vowel   
-
-
-
     // Print the total count of vowels
 
+
+    
 ?>
